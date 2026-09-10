@@ -1,0 +1,22 @@
+
+# Common subdomains wordlist (extend as needed)
+www
+mail
+api
+app
+dev
+test
+staging
+admin
+portal
+dashboard
+blog
+shop
+cdn
+static
+vpn
+git
+jenkins
+db
+backup
+status
